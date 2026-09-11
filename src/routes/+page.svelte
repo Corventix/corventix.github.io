@@ -5,18 +5,17 @@
 <section class="flex min-h-screen items-center px-6">
 	<div class="mx-auto w-full max-w-5xl">
 		<p class="mb-4 text-sm font-medium tracking-widest uppercase opacity-60">
-			Product websites for startups
+			Websites for growing businesses
 		</p>
 
 		<h1 class="max-w-4xl text-5xl font-bold tracking-tight sm:text-7xl">
-			Your product is great.
-			<span class="text-blue-600">Your website should show it.</span>
+			Your business deserves a better website
+			<!--<span class="text-blue-600">Your website should show it.</span>-->
 		</h1>
 
 		<p class="mt-6 max-w-2xl text-lg leading-relaxed opacity-70">
-			I build fast, polished product websites for early-stage startups and small tech companies —
-			designed to make your product easy to understand and turn visitors into signups, demos, and
-			customers.
+			I build fast, polished websites for businesses that want to look professional, explain what
+			they do clearly, and turn visitors into customers.
 		</p>
 
 		<a
@@ -34,22 +33,23 @@
 
 		<div class="grid gap-6 md:grid-cols-2">
 			<div class="rounded-2xl border p-8">
-				<h2 class="text-2xl font-semibold text-blue-700">Product websites</h2>
+				<h2 class="text-2xl font-semibold text-blue-700">Business websites</h2>
 				<p class="mt-3 opacity-70">
-					Custom websites that explain your product clearly and guide visitors toward the right
-					action.
+					Custom websites that explain your business clearly and help visitors trust your brand.
 				</p>
 			</div>
 
 			<div class="rounded-2xl border p-8">
 				<h2 class="text-2xl font-semibold text-blue-700">Landing pages</h2>
-				<p class="mt-3 opacity-70">Focused pages for launches, products, features, or campaigns.</p>
+				<p class="mt-3 opacity-70">
+					Focused pages for launches, offers, campaigns, or new services.
+				</p>
 			</div>
 
 			<div class="rounded-2xl border p-8">
-				<h2 class="text-2xl font-semibold text-blue-700">Startup sites</h2>
+				<h2 class="text-2xl font-semibold text-blue-700">Service websites</h2>
 				<p class="mt-3 opacity-70">
-					A complete web presence for early-stage companies that need to look credible from day one.
+					Professional sites built to present your services, process, and expertise clearly.
 				</p>
 			</div>
 
@@ -98,9 +98,9 @@
 
 		<div class="grid gap-6 md:grid-cols-3">
 			<div class="rounded-2xl border p-8">
-				<h4 class="text-lg font-semibold text-blue-700">01 — Tell me about your product</h4>
+				<h4 class="text-lg font-semibold text-blue-700">01 — Tell me about your business</h4>
 				<p class="mt-3 opacity-70">
-					We understand your product, audience, and goals so we can make a plan that fits.
+					We understand your business, audience, and goals so we can make a plan that fits.
 				</p>
 			</div>
 
@@ -141,7 +141,7 @@
 
 <section class="px-6 py-32">
 	<div class="mx-auto w-full max-w-5xl">
-		<p class="mb-4 text-sm font-medium tracking-widest uppercase opacity-60">6️⃣ FAQ</p>
+		<p class="mb-4 text-sm font-medium tracking-widest uppercase opacity-60">FAQ</p>
 
 		<div class="grid gap-6 md:grid-cols-2">
 			<div class="rounded-2xl border p-8">
@@ -178,10 +178,10 @@
 <section class="px-6 py-32">
 	<div class="mx-auto w-full max-w-5xl text-center">
 		<h2 class="mx-auto max-w-3xl text-3xl font-bold sm:text-4xl">
-			Ready to give your product a better website?
+			Ready to give your business a better website?
 		</h2>
 		<p class="mx-auto mt-4 max-w-2xl opacity-70">
-			Tell me what you're building, and let's make a website that sells it.
+			Tell me about your business, and let's build a website that brings you customers.
 		</p>
 
 		<a
