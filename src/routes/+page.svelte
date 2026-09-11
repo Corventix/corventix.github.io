@@ -91,3 +91,30 @@
 		</div>
 	</div>
 </section>
+
+<section class="px-6 py-32">
+	<div class="mx-auto w-full max-w-5xl">
+		<p class="mb-4 text-sm font-medium tracking-widest uppercase opacity-60">Process</p>
+
+		<div class="grid gap-6 md:grid-cols-3">
+			<div class="rounded-2xl border p-8">
+				<h4 class="text-lg font-semibold text-blue-700">01 — Tell me about your product</h4>
+				<p class="mt-3 opacity-70">
+					We understand your product, audience, and goals so we can make a plan that fits.
+				</p>
+			</div>
+
+			<div class="rounded-2xl border p-8">
+				<h4 class="text-lg font-semibold text-blue-700">02 — I build it</h4>
+				<p class="mt-3 opacity-70">
+					I design and build it from scratch, with feedback along the way.
+				</p>
+			</div>
+
+			<div class="rounded-2xl border p-8">
+				<h4 class="text-lg font-semibold text-blue-700">03 — Launch</h4>
+				<p class="mt-3 opacity-70">We polish, deploy, and get your new site live.</p>
+			</div>
+		</div>
+	</div>
+</section>
