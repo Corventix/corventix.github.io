@@ -118,3 +118,23 @@
 		</div>
 	</div>
 </section>
+
+<section class="px-6 py-32">
+	<div class="mx-auto w-full max-w-5xl">
+		<p class="mb-4 text-sm font-medium tracking-widest uppercase opacity-60">Pricing</p>
+
+		<h3 class="text-2xl font-semibold text-blue-700">Websites starting at ₹2,000</h3>
+
+		<p class="mt-3 opacity-70">
+			Every project is different. Pricing depends on the scope, number of pages, features, and
+			requirements.
+		</p>
+
+		<a
+			href="/quote"
+			class="mt-6 inline-block rounded-xl bg-blue-600 px-6 py-3 font-medium text-white no-underline"
+		>
+			Get a quote →
+		</a>
+	</div>
+</section>
