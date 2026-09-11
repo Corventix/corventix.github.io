@@ -138,3 +138,57 @@
 		</a>
 	</div>
 </section>
+
+<section class="px-6 py-32">
+	<div class="mx-auto w-full max-w-5xl">
+		<p class="mb-4 text-sm font-medium tracking-widest uppercase opacity-60">6️⃣ FAQ</p>
+
+		<div class="grid gap-6 md:grid-cols-2">
+			<div class="rounded-2xl border p-8">
+				<h4 class="text-lg font-semibold">What does a website cost?</h4>
+				<p class="mt-3 opacity-70">
+					Pricing varies by scope — number of pages, features, and custom work.
+				</p>
+			</div>
+
+			<div class="rounded-2xl border p-8">
+				<h4 class="text-lg font-semibold">How long does it take?</h4>
+				<p class="mt-3 opacity-70">
+					Timelines depend on scope; most projects finish within a few weeks.
+				</p>
+			</div>
+
+			<div class="rounded-2xl border p-8">
+				<h4 class="text-lg font-semibold">Do you use templates?</h4>
+				<p class="mt-3 opacity-70">
+					No — I design and build custom sites without premade templates.
+				</p>
+			</div>
+
+			<div class="rounded-2xl border p-8">
+				<h4 class="text-lg font-semibold">What do you need from me?</h4>
+				<p class="mt-3 opacity-70">
+					Content, brand assets, and access to any services you want connected.
+				</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section class="px-6 py-32">
+	<div class="mx-auto w-full max-w-5xl text-center">
+		<h2 class="mx-auto max-w-3xl text-3xl font-bold sm:text-4xl">
+			Ready to give your product a better website?
+		</h2>
+		<p class="mx-auto mt-4 max-w-2xl opacity-70">
+			Tell me what you're building, and let's make a website that sells it.
+		</p>
+
+		<a
+			href="/quote"
+			class="mt-8 inline-block rounded-xl bg-blue-600 px-6 py-3 font-medium text-white no-underline"
+		>
+			Start a project →
+		</a>
+	</div>
+</section>
